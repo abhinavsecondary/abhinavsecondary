@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abhinavsecondary
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Next.js and Redux along with GraphQL
+- 💞️ I’m looking to collaborate on freelance projects as a frontend developer
+- 📫 You can react me at abhisawarkar85@gmail.com
